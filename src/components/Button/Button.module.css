@@ -1,0 +1,17 @@
+.button {
+  background: #bbef83;
+  border: 0;
+  border-radius: 6px;
+  padding: 14px 20px;
+  font: inherit;
+  font-weight: bold;
+  color: #10200b;
+  cursor: pointer;
+}
+.button:hover {
+  background: #d1ffa4;
+}
+.button:active {
+  background: #9cce63;
+  transform: translateY(1px);
+}
